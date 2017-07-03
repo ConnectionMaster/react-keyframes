@@ -1,6 +1,6 @@
 {
   "name": "@bufferapp/react-keyframes",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "",
   "main": "./build/lib",
   "files": [
